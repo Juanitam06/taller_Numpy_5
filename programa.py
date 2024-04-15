@@ -14,6 +14,5 @@ print(C)
 
 #Solucion de un sistema de ecuaciones con Numpy
 m_solucion =np.array([5,17])
-
 m=np.linalg.solve(A,m_solucion)
 print(m)
